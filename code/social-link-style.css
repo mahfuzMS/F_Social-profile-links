@@ -83,10 +83,8 @@ button a {
   /* target: "_blank"; */
 }
 
-@media screen and (max-width: 576px) {
+@media  (max-width: 576px) {
   .container {
-    background-color: #e70303;
-    text-align: center;
     position: static ;
     top: auto;
     left: auto;
